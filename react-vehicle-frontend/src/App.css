@@ -1,0 +1,16 @@
+/* @import url(https://unpkg.com/bootstrap@4.1.0/dist/css/bootstrap.min.css);
+body {
+  background-color: #282c34;
+  color: white;
+  padding: 60px;
+  font-family: Arial;
+  text-align: center;
+  align-content: center;
+}
+table {
+  border-collapse: collapse;
+}
+
+table, th, td {
+  border: 1px solid black;
+} */
